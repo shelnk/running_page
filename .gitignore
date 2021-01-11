@@ -17,3 +17,5 @@ _site/
 /.vscode
 
 config.yaml
+
+.idea/
